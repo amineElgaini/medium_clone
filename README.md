@@ -1,4 +1,4 @@
-# 📸 Laravel Social App
+# 📸 Laravel Medium Clone
 
 A simple social media-style Laravel application built with:
 
